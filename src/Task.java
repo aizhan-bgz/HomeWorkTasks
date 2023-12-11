@@ -1,11 +1,7 @@
-package practice;
-
-import com.sun.source.tree.WhileLoopTree;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Task3 {
+public class Task {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
