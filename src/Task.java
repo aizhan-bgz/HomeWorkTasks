@@ -7,7 +7,7 @@ public class Task {
 
         ArrayList<String> tasks  = new ArrayList<>();
 
-        System.out.println("*** MENU ***" +
+        System.out.println("***  MENU  ***" +
                             "\n1. Добавить новую задачу в список дел" +
                             "\n2. Отметить задачу как выполненную и удалить" +
                             "\n3. Отобразить текущий список дел" +
